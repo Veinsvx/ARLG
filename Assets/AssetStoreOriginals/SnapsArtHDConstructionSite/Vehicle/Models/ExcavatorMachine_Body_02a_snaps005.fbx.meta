@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 85a97f69abd1fd14da9453b24ef9de1d
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: polySurface2
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: polySurface2
+  - first:
+      21: 2100000
+    second: Label_01a
+  - first:
+      21: 2100002
+    second: Steel_01a
+  - first:
+      21: 2100004
+    second: Metal_01a
+  - first:
+      21: 2100006
+    second: Plastic_01a
+  - first:
+      21: 2100008
+    second: Rubber_01a
+  - first:
+      21: 2100010
+    second: ExcavatorMachine_02a
+  - first:
+      21: 2100012
+    second: Glass_01a
+  - first:
+      21: 2100014
+    second: Beige_painted_metal_01a
+  - first:
+      21: 2100016
+    second: Beige_painted_metal_02a
+  - first:
+      21: 2100018
+    second: Body_paintedmetal_01a
+  - first:
+      21: 2100020
+    second: paintedmetal_01a
+  - first:
+      21: 2100022
+    second: Plastic_02a
+  - first:
+      21: 2100024
+    second: lambert3
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: polySurface2
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: polySurface2
+  - first:
+      43: 4300000
+    second: ExcavatorMachine_Body_01a_snaps005
+  - first:
+      43: 4300002
+    second: ExcavatorMachine_02a_snaps005
+  - first:
+      43: 4300004
+    second: ExcavatorMachine_Body_02a_snaps005
+  - first:
+      43: 4300006
+    second: polySurface2
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beige_painted_metal_01a
+    second: {fileID: 2100000, guid: 3a0cb36f31da74f4cb587e6ac514392f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beige_painted_metal_02a
+    second: {fileID: 2100000, guid: 9b74b3c06c882ce4fa444c5d7d2000a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_paintedmetal_01a
+    second: {fileID: 2100000, guid: bb767b7e8d1ad764f82e4e3f6d1fd613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ExcavatorMachine_02a
+    second: {fileID: 2100000, guid: 621d1b7b947b10c40a467c9c947d1b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_01a
+    second: {fileID: 2100000, guid: 50455a70dde13ca4b981e3715404cb7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label_01a
+    second: {fileID: 2100000, guid: 0be9c6001d8166c4da8735028d144ad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_01a
+    second: {fileID: 2100000, guid: 64520677d628ea248b0cf3065de13290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_01a
+    second: {fileID: 2100000, guid: c0c57d8a74d4a064d8aae0be4a9af094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_02a
+    second: {fileID: 2100000, guid: bc088eb32873b8a4cbfb2668e91343f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber_01a
+    second: {fileID: 2100000, guid: 19697db6ee7e67f43a828ddeba3c63b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_01a
+    second: {fileID: 2100000, guid: 968c96e9736abe74586a3abb91bf81c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paintedmetal_01a
+    second: {fileID: 2100000, guid: 167f6f485fd79cc46ad289b8b10c42fc, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

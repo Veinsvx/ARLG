@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 7015a0174de5f3c408134ef955337371
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: em_paintedmetalblack_01a
+  - first:
+      21: 2100002
+    second: em_paintedmetal_01a
+  - first:
+      21: 2100004
+    second: em_plasticA_01a
+  - first:
+      21: 2100006
+    second: em_paintedmetal_02a
+  - first:
+      21: 2100008
+    second: em_rubberB_02a
+  - first:
+      21: 2100010
+    second: em_paintedmetalblack_02a
+  - first:
+      21: 2100012
+    second: em_aluminiumA_02a
+  - first:
+      21: 2100014
+    second: Earthmover_Uniqueparts_01a_snaps005_MAT
+  - first:
+      21: 2100016
+    second: em_glass_01a
+  - first:
+      21: 2100018
+    second: em_Labels
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: Earthmover_Body_01a_snaps005
+  - first:
+      43: 4300002
+    second: Earthmover_Body_01a_snaps006
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Earthmover_Uniqueparts_01a_snaps005_MAT
+    second: {fileID: 2100000, guid: 674330aae2606c74f97bd2008e61301a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: em_Labels
+    second: {fileID: 2100000, guid: 0d4a4bdb2c05ae94faa754971e918d3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: em_aluminiumA_02a
+    second: {fileID: 2100000, guid: f5db27ede2de00240be395182753c538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: em_glass_01a
+    second: {fileID: 2100000, guid: c643dd7d5d45d494783132d09642a924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: em_paintedmetal_01a
+    second: {fileID: 2100000, guid: 46d94c69dd898d140bb875d426da9447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: em_paintedmetal_02a
+    second: {fileID: 2100000, guid: 9afcc28a4059b4d4fac14a82fb58951e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: em_paintedmetalblack_01a
+    second: {fileID: 2100000, guid: dcdaec6c674003b4a96ed8dfc69693bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: em_paintedmetalblack_02a
+    second: {fileID: 2100000, guid: b773626dc4327234a89c4537ea88b45b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: em_plasticA_01a
+    second: {fileID: 2100000, guid: 21861f8fa52ff584881f11474cbf829f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: em_rubberB_02a
+    second: {fileID: 2100000, guid: fa12fc81c8e6e0b4d91a273af74279b4, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

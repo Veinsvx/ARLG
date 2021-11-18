@@ -1,0 +1,2248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2567652061100947257
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2790944405580610966}
+  - component: {fileID: 7521550800866609616}
+  - component: {fileID: 4619005595866224325}
+  m_Layer: 0
+  m_Name: ExcavatorMachine_TrackB_25a_snaps005 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2790944405580610966
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2567652061100947257}
+  m_LocalRotation: {x: 0.9984982, y: -0, z: 0, w: 0.05478519}
+  m_LocalPosition: {x: 0.24, y: 0.916, z: 0.073}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7057233085046126144}
+  m_RootOrder: 54
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7521550800866609616
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2567652061100947257}
+  m_Mesh: {fileID: 4300146, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+--- !u!23 &4619005595866224325
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2567652061100947257}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: dc98fa2a981999f4c86a630e874f3122, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!1 &2871885845592048035
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1182302046849185041}
+  m_Layer: 0
+  m_Name: ExcavatorMachine_01a_snaps005
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1182302046849185041
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2871885845592048035}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.1840477, y: 1.9785895, z: 0.14194298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7057233085046126144}
+  - {fileID: 424548091994401825}
+  - {fileID: 5859669890415169208}
+  - {fileID: 8499861100569314694}
+  - {fileID: 8440631344851830601}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6887559989973098681
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3524393394548779052}
+  - component: {fileID: 8758543774620709192}
+  - component: {fileID: 8836513201848537024}
+  m_Layer: 0
+  m_Name: ExcavatorMachine_TrackB_25a_snaps005 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3524393394548779052
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6887559989973098681}
+  m_LocalRotation: {x: 0.9984982, y: -0, z: 0, w: 0.05478519}
+  m_LocalPosition: {x: 0.24, y: 0.934, z: 0.079}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 424548091994401825}
+  m_RootOrder: 54
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8758543774620709192
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6887559989973098681}
+  m_Mesh: {fileID: 4300146, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+--- !u!23 &8836513201848537024
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6887559989973098681}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: dc98fa2a981999f4c86a630e874f3122, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!1001 &424548091994273441
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1182302046849185041}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_Track_01a_snaps005 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.155
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300012, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+--- !u!4 &424548091994401825 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a,
+    type: 3}
+  m_PrefabInstance: {fileID: 424548091994273441}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &560333370992801314
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_TopRoller_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.974
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.346
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+--- !u!1001 &1201878349599854703
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.048
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &1759550147853400614
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.773
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &1888632579539241766
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.048
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &2202524517174219243
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.4779999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &2387466694233588749
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8440631344851830601}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_Pipes_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.126
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4169941
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.81998104
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.45416927
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.89091545
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06d338fefa17f86438a73a8b85a521ec, type: 3}
+--- !u!1001 &2586081263092636012
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_Wheel_01a_snaps005 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4450002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.503
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.086
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+--- !u!1001 &3058922725626773603
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_TopRoller_01a_snaps005 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.974
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.494
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+--- !u!1001 &3284181046251451853
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.441
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &3350441204009345611
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8440631344851830601}
+    m_Modifications:
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.126
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.0387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.40623719
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.45416927
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.89091545
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630371731479592389, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473846956207201715, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_ArmGroup_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 6943411578672239999, guid: 55b9595404548ae4bb1a8e6e57928295,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.125
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 55b9595404548ae4bb1a8e6e57928295, type: 3}
+--- !u!1001 &3401813180424191717
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_TopRoller_01a_snaps005 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.974
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.346
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+--- !u!1001 &3402550413712264590
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.655
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &3552025237355792271
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_Wheel_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.445
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.503
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.184
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+--- !u!1001 &4009130046378467951
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &4304457368565178527
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &4494114037510032933
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.102
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &5647785329553941594
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_TopRoller_01a_snaps005 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.974
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.494
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 05ef3a38b0da1ad4e9770810290e7104, type: 3}
+--- !u!1001 &5834489727181564323
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.102
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &5859669890414777400
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1182302046849185041}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_CarBody_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.658
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.887
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4b0d457a58c4ec54bb180d0209e79f03, type: 3}
+--- !u!4 &5859669890415169208 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 4b0d457a58c4ec54bb180d0209e79f03,
+    type: 3}
+  m_PrefabInstance: {fileID: 5859669890414777400}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6100327017852481670
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_Wheel_01a_snaps005 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4450002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.503
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.184
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+--- !u!1001 &6270932580879536520
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.264
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &7057233085045730496
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1182302046849185041}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_Track_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.644
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300012, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0df8e97f73139db4eb2256860083231a, type: 3}
+--- !u!4 &7057233085046126144 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 0df8e97f73139db4eb2256860083231a,
+    type: 3}
+  m_PrefabInstance: {fileID: 7057233085045730496}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7078156477621929408
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.655
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &7827416190185045724
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.871
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &7995244011464148744
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.264
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &8081216350949219587
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.871
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &8323833063837921592
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_Wheel_01a_snaps005 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.445
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.503
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.086
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 79a195563e015d44a851d0712984e3b1, type: 3}
+--- !u!1001 &8440631344851967433
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1182302046849185041}
+    m_Modifications:
+    - target: {fileID: 100000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_HydraulicCylinder03_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.126
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.496
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.665
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.45416927
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.89091545
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 54.023
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a58a2207e0591cc41ab2eef183ea3cfa, type: 3}
+--- !u!4 &8440631344851830601 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: a58a2207e0591cc41ab2eef183ea3cfa,
+    type: 3}
+  m_PrefabInstance: {fileID: 8440631344851967433}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8495360062012229863
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.441
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &8499861100569714438
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1182302046849185041}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_TrackBody_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1477c349b450dc94bb6f601f847d9178, type: 3}
+--- !u!4 &8499861100569314694 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 1477c349b450dc94bb6f601f847d9178,
+    type: 3}
+  m_PrefabInstance: {fileID: 8499861100569714438}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8771548259696126190
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.773
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+--- !u!1001 &8839637718832376878
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5859669890415169208}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_CabDoor_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.577
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.12599993
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.7429999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 43a3f3e86e918434ea0ba935d77c31d1, type: 3}
+--- !u!1001 &9016985143255795485
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8499861100569314694}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_Name
+      value: ExcavatorMachine_BottomRoller_01a_snaps005 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27699995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.4779999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9946191
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.10359979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 191.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12d34152ab3f39f40a36b190a8786f80, type: 3}

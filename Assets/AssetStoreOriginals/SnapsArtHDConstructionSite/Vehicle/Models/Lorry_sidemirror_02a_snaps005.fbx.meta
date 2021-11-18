@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 6bfe95f9d590f9d4baaa3dc4c012a53f
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Lorry_sidemirror_02a_snaps005
+  - first:
+      1: 100004
+    second: Parts
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Lorry_sidemirror_02a_snaps005
+  - first:
+      4: 400004
+    second: Parts
+  - first:
+      21: 2100000
+    second: Lorry_01a_snaps005_01_MAT3
+  - first:
+      21: 2100002
+    second: Lorry_01a_snaps005_03_MAT3
+  - first:
+      21: 2100004
+    second: glass
+  - first:
+      21: 2100006
+    second: metal
+  - first:
+      21: 2100008
+    second: stainless_steel
+  - first:
+      21: 2100010
+    second: glass1
+  - first:
+      21: 2100012
+    second: metal3
+  - first:
+      21: 2100014
+    second: stainless_steel1
+  - first:
+      21: 2100016
+    second: Metal_rough_01a_MAT
+  - first:
+      21: 2100018
+    second: Lorry_01a_snaps005_MAT
+  - first:
+      21: 2100020
+    second: Plastic_dull_01a_MAT
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: Lorry_sidemirror_02a_snaps005
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: Lorry_sidemirror_02a_snaps005
+  - first:
+      43: 4300000
+    second: Lorry_sidemirror_02a_snaps005
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lorry_01a_snaps005_MAT
+    second: {fileID: 2100000, guid: f2741c61786168746a540b9ab238f4de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_rough_01a_MAT
+    second: {fileID: 2100000, guid: abbb0c8379895e243b4992e8669ea4be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_dull_01a_MAT
+    second: {fileID: 2100000, guid: b43791fc3d05d7144b78dd509213fe86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: ac6d5ba518d778a43997a963e647fc99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass1
+    second: {fileID: 2100000, guid: ac6d5ba518d778a43997a963e647fc99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 1dbfbda461adff74c86bb2f8632be830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal3
+    second: {fileID: 2100000, guid: 1dbfbda461adff74c86bb2f8632be830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainless_steel
+    second: {fileID: 2100000, guid: c64ac0b8e92214c48ad4cf575e8aa89d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainless_steel1
+    second: {fileID: 2100000, guid: c64ac0b8e92214c48ad4cf575e8aa89d, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
